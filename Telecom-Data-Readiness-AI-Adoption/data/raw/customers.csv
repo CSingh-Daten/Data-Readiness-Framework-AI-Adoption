@@ -1,0 +1,3 @@
+customer_id,plan_type,region,data_usage_gb,churn_flag
+1,Prepaid,East,3.5,0
+2,Postpaid,West,7.2,1
