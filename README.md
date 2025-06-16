@@ -3,15 +3,15 @@ Below is a step-by-step process to implement Data Readiness for AI/ML using samp
 ________________________________________
 📶 Sample Use Case: Customer Churn Prediction
 ________________________________________
-🔍 Step 1: Define Business & Functional Objectives
-Goal: Reduce customer churn by 10% using predictive modeling.
-Business Units Involved: Marketing, Customer Care, Data Science.
-Task	Tools/Approach
-Identify KPIs (e.g., churn rate, lifetime value)	Stakeholder interviews
-Select target dataset (e.g., 12-month subscriber data)	SQL, BI tools
+**🔍 Step 1: Define Business & Functional Objectives**
+**Goal**: Reduce customer churn by 10% using predictive modeling.
+**Business Units Involved**: Marketing, Customer Care, Data Science.
+**Task**	                                                  **Tools/Approach**
+Identify KPIs (e.g., churn rate, lifetime value)	            Stakeholder interviews
+Select target dataset (e.g., 12-month subscriber data)	      SQL, BI tools
 ________________________________________
-🧹 Step 2: Assess & Improve Data Quality
-Focus: Completeness, accuracy, consistency, timeliness
+**🧹 Step 2: Assess & Improve Data Quality**
+**Focus**: Completeness, accuracy, consistency, timeliness
 Task	Tools/Tech	Example
 Detect missing values, duplicates	Pandas, PyDeequ, Great Expectations	20% missing “last recharge date”
 Standardize formats	Python, Spark	Normalize date formats
